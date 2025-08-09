@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🚀 Creating passionate apps that solve real problems.</p>
+<p align="center">🚀 Creating passionate apps that solve real problem.</p>
 
 ###
 
