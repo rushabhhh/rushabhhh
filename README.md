@@ -1,6 +1,6 @@
 <!-- Centered Developer GIF at Top -->
 <div align="center">
-  <img height="200" src="https://i.ibb.co/tT6W901p/Aspiring-IT-Student.gif" alt="Developer GIF" />
+  <img height="400" src="https://i.ibb.co/tT6W901p/Aspiring-IT-Student.gif" alt="Developer GIF" />
 </div>
 
 <!-- Section Heading -->
