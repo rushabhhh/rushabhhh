@@ -1,4 +1,4 @@
-<!-- Centered Developer GIF -->
+<!-- Centered Developer GIF at Top -->
 <div align="center">
   <img height="200" src="https://i.ibb.co/tT6W901p/Aspiring-IT-Student.gif" alt="Developer GIF" />
 </div>
@@ -49,14 +49,13 @@
   <img src="https://github.com/rushabhhh/rushabhhh/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<!-- Giphy Animation Centered -->
+<!-- END SECTION: GIF + Spotify Side-by-Side -->
+<br /><br />
 <div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdtNG5jM2pyNWw4cnU3bnhjbHEzczI2c2Y1OHE1NHlzenRraDA0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Animation" />
-</div>
-
-<!-- Spotify Recently Played - Centered -->
-<div align="center">
-  <a href="https://open.spotify.com/user/31v37x3ghp4m2njlicsegrhdbuzi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v37x3ghp4m2njlicsegrhdbuzi&count=4&unique=true" alt="Spotify Recently Played" />
-  </a>
+  <a href="https://open.spotify.com/user/31v37x3ghp4m2njlicsegrhdbuzi" target="_blank">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v37x3ghp4m2njlicsegrhdbuzi&count=4&unique=true" alt="Spotify Recently Played" />
+    </a>
+  </div>
 </div>
