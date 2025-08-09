@@ -77,7 +77,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/rushabhhh/rushabhhh/output/dist/github-snake.svg" alt="Snake animation" height="200" />
+![snake gif](https://github.com/rushabhhh/rushabhhh/blob/output/github-snake-dark.svg)
 
 
 ###
