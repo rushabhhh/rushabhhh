@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://your-avatar-url.com/avatar.png" alt="Your Avatar" width="150" />
+</p>
 
-<!--
-**rushabhhh/rushabhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Your Name</h1>
+<h3 align="center">aka Your Nickname</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Graduate Student | Software Engineer</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="Current" src="https://img.shields.io/badge/Student-UIC-red?style=for-the-badge&logo=university" /> 
+  <img alt="Past" src="https://img.shields.io/badge/Past-ZOHO-00A0DE?style=for-the-badge&logo=zoho" />
+</p>
