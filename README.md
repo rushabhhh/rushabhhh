@@ -53,7 +53,7 @@
 <!-- END SECTION: GIF + Spotify Side-by-Side with Real Spacing -->
 <br /><br />
 <div align="center" style="margin-top: 40px;">
- <div style="display: flex; align-items: center; justify-content: center; gap: 60px; flex-wrap: wrap;">
+ <div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
    <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdtNG5jM2pyNWw4cnU3bnhjbHEzczI2c2Y1OHE1NHlzenRraDA0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Animation" />
     <!-- Spotify Recently Played with Width Constraint -->
     <a href="https://open.spotify.com/user/31v37x3ghp4m2njlicsegrhdbuzi" target="_blank">
