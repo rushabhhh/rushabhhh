@@ -52,7 +52,7 @@
 <!-- END SECTION: GIF + Spotify Side-by-Side -->
 <br /><br />
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 60px; flex-wrap: wrap;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 100px; flex-wrap: wrap;">
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdtNG5jM2pyNWw4cnU3bnhjbHEzczI2c2Y1OHE1NHlzenRraDA0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Animation" />
   <a href="https://open.spotify.com/user/31v37x3ghp4m2njlicsegrhdbuzi" target="_blank">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v37x3ghp4m2njlicsegrhdbuzi&count=4&unique=true" alt="Spotify Recently Played" />
