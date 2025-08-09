@@ -63,3 +63,19 @@
   </div>
 </div>
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <div>JavaScript</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+    <div>React</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+    <div>Python</div>
+  </div>
+  <!-- Add more as needed -->
+</div>
+
