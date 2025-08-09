@@ -7,7 +7,7 @@
 <h1 align="center">💻 TECH STACK</h1>
 
 <!-- Subtitle -->
-<p align="center">🚀 Creating passionate apps that solve real problems.</p>
+<p align="center">🛠️ Technologies I’ve Used or Explored</p>
 
 <!-- Tech Stack Icons - Centered -->
 <div align="left">
