@@ -10,8 +10,7 @@
 <p align="center">🚀 Creating passionate apps that solve real problems.</p>
 
 <!-- Tech Stack Icons - Centered -->
-<div align="center">
-  ### 💻 My Tech Stack
+<div align="left">
 
 <!-- Languages -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
