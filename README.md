@@ -60,7 +60,7 @@
 <!-- Snake GitHub Contribution Graph -->
 <div align="center">
   <br />
-  <img src="https://github.com/rushabhhh/rushabhhh/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/rushabhhh/rushabhhh/blob/output/github-snake-dark.svg" alt="Snake animation" width="800" />
 </div>
 
 <!-- END SECTION: GIF + Spotify Side-by-Side -->
