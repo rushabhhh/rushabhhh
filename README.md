@@ -82,8 +82,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdtNG5jM2pyNWw4cnU3bnhjbHEzczI2c2Y1OHE1NHlzenRraDA0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 ###
