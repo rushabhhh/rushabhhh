@@ -82,11 +82,13 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdtNG5jM2pyNWw4cnU3bnhjbHEzczI2c2Y1OHE1NHlzenRraDA0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31v37x3ghp4m2njlicsegrhdbuzi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v37x3ghp4m2njlicsegrhdbuzi&count=4&unique=true" alt="Spotify recently played"  />
   </a>
